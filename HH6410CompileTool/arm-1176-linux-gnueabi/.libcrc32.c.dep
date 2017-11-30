@@ -1,0 +1,7 @@
+libcrc32.o: lib/libcrc32.c \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/stdint.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/features.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/wchar.h

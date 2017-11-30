@@ -1,0 +1,25 @@
+rbtree.o: rbtree.c \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/stdlib.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/features.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/lib/gcc/arm-1176-linux-gnueabi/4.4.5/include/stddef.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/sys/types.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/types.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/typesizes.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/time.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/endian.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/endian.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/byteswap.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/sys/select.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/select.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/sigset.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/time.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/sys/sysmacros.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/alloca.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/bits/stdlib.h \
+ rbtree.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/linux/kernel.h \
+ /home/ksj/x-tools/arm-1176-linux-gnueabi/arm-1176-linux-gnueabi/sysroot/usr/include/linux/stddef.h
